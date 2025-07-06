@@ -1,6 +1,6 @@
 # Macro Pad
 
-This is the software I'm using for a simple Macro Pad based on the Pi Pico.  Using this software is pretty straight forward. I design a parametric enclosure for it. It can be found at http://......
+This is the software I'm using for a simple Macro Pad based on the Pi Pico.  Using this software is pretty straight forward. I design a parametric enclosure for it. It can be found at [http://......](http://www.ctheroux.com/parametric-macro-pad/).
 
 1. Install Circuit Python.  
 
